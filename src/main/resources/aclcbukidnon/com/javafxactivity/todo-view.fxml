@@ -20,6 +20,6 @@
             </Button>
          </children>
       </HBox>
-      <ListView fx:id="todoList" onEditStart="#onListEdit" prefHeight="200.0" prefWidth="200.0" />
+      <ListView fx:id="todoList" prefHeight="200.0" prefWidth="200.0" />
    </children>
 </VBox>
